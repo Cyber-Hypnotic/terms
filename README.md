@@ -1,4 +1,4 @@
-### Terms of Service - Discord Bot
+### Cyber Hypnotic Terms of Service
 This document outlines the terms and conditions for using the multipurpose Discord bot ("the Bot") that stores server information and user information to work.
 
 By using the Bot, you agree to be bound by these terms and conditions. If you do not agree to these terms, you may not use the Bot.
